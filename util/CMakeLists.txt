@@ -1,4 +1,4 @@
-add_library(util
+add_library(cudd_util
   "${CMAKE_CURRENT_SOURCE_DIR}/cpu_stats.c"
   "${CMAKE_CURRENT_SOURCE_DIR}/cpu_time.c"
   "${CMAKE_CURRENT_SOURCE_DIR}/cstringstream.c"
